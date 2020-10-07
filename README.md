@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shubham Soni.
 
-- 🔭 I’m currently working o
-- 🌱 I’m currently learning python,r,d3,flutter,statistics.
+- 🔭 I’m currently working on Data Visualisation using D3 and python.
+- 🌱 I’m currently learning Python,R,D3,Flutter,statistics.
 - 👯 I’m looking to collaborate on interesting projects on flutter and python.
 - 📫 How to reach me on my [website](https://shubham-soni.tech), [linkedin](https://linkedin.com/in/shubxam), [Twitter](https://twitter.com/shubxam)
 

@@ -26,12 +26,6 @@ Makefile   0 hrs 10 mins   ▒░░░░░░░░░░░░░░░░�
 
 ---
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 📈 Here are my github stats:
 
 <a href="https://github.com/shubxam">
@@ -40,3 +34,9 @@ Makefile   0 hrs 10 mins   ▒░░░░░░░░░░░░░░░░�
 <a href="https://github.com/shubxam">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubxam&hide=HTML,CSS,Jupyter%20Notebook,Dart&size_weight=0.5&count_weight=0.5&hide_progress=true&card_width=100" />
 </a>
+
+---
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

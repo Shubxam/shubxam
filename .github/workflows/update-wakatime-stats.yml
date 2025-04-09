@@ -1,0 +1,25 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every 2 hours
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKANA_API_KEY }}
+          API_BASE_URL: https://api.wakana.io/api
+          SHOW_TITLE: true
+          TIME_RANGE: last_30_days
+          CODE_LANG: rust
+          IGNORED_LANGUAGES: Text TOML JSON
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: Shubham
+          AUTHOR_EMAIL: shubxam@duck.com

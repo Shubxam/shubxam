@@ -6,6 +6,8 @@
 - 👯 I’m looking to collaborate on interesting projects on python centered around finance.
 - 📫 Reach out to me on [linkedin](https://linkedin.com/in/shubxam), [Twitter](https://twitter.com/shubxam) or on my [website](https://shubxam.github.io)
 
+📊 Here is a summary of my coding activity past month:
+
 <!--START_SECTION:waka-->
 
 ```rust

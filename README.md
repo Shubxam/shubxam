@@ -26,6 +26,12 @@ Makefile   0 hrs 10 mins   ▒░░░░░░░░░░░░░░░░�
 
 ---
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 📈 Here are my github stats:
 
 <a href="https://github.com/shubxam">

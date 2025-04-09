@@ -37,7 +37,8 @@ Makefile   0 hrs 10 mins   ▒░░░░░░░░░░░░░░░░�
 
 ---
 
-# Blog posts
+📝 Here are some of the blogs I've written:
+
 <!-- BLOG-POST-LIST:START -->
 - [Nifty Indices Live Sentiment Analysis](https://blog.shubxam.tech/nifty-indices-live-sentiment-analysis/)
 <!-- BLOG-POST-LIST:END -->

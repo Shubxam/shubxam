@@ -3,7 +3,7 @@
 - 🔭 I’m a quantitative analyst/developer.
 - 🏗 I'm passionate about building practical solutions to problems in wealthtech/fintech domain.
 - 👯 I’m looking to collaborate on interesting projects on python/rust centered around trading.
-- 📫 Reach out to me on [linkedin](https://linkedin.com/in/shubxam), [Twitter](https://x.com/shubxam) or on my [website](https://blog.shubxam.tech)
+- 📫 Reach out to me on [linkedin](https://linkedin.com/in/shubxam), [Twitter](https://x.com/shubxam) or on my [website](https://shubxam.tech)
 
 ---
 

@@ -14,12 +14,12 @@
 ```rust
 From: 29 March 2025 - To: 26 April 2025
 
-Total Time: 65 hrs 11 mins
+Total Time: 65 hrs 15 mins
 
-Python       42 hrs 1 mins   ████████████████░░░░░░░░░   64.47 %
-Markdown     11 hrs 0 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
+Python       42 hrs 5 mins   ████████████████░░░░░░░░░   64.51 %
+Markdown     11 hrs 0 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.87 %
 YAML         3 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-Rust         3 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+Rust         3 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
 HTML         0 hrs 28 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 

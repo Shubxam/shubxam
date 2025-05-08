@@ -41,5 +41,6 @@ HTML         0 hrs 53 mins   ▒░░░░░░░░░░░░░░░░
 📝 Here are some of the blogs I've written:
 
 <!-- BLOG-POST-LIST:START -->
+- [my first PyPI package, linkhut-cli app](https://shubxam.tech/my-first-package-on-pypi/)
 - [Nifty Indices Live Sentiment Analysis](https://shubxam.tech/nifty-indices-live-sentiment-analysis/)
 <!-- BLOG-POST-LIST:END -->

@@ -7,6 +7,23 @@
 
 ---
 
+📝 Here are some of the blogs I've written:
+
+<!-- BLOG-POST-LIST:START -->
+- [my first PyPI package, linkhut-cli app](https://shubxam.tech/my-first-package-on-pypi/)
+- [Nifty Indices Live Sentiment Analysis](https://shubxam.tech/nifty-indices-live-sentiment-analysis/)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+Packages authored on PyPI:
+
+- [linkhut-cli: beautiful TUI to manage your bookmarks stored on linkhut](https://pypi.org/project/linkhut-cli/)
+[![PyPI Downloads](https://static.pepy.tech/badge/linkhut-cli)](https://pepy.tech/projects/linkhut-cli)
+[![PyPI version](https://badge.fury.io/py/linkhut-cli.svg)](https://badge.fury.io/py/linkhut-cli)
+
+---
+
 📊 Here is a summary of my coding activity past month:
 
 <!--START_SECTION:waka-->
@@ -37,9 +54,3 @@ HTML         0 hrs 54 mins   ▒░░░░░░░░░░░░░░░░
 
 ---
 
-📝 Here are some of the blogs I've written:
-
-<!-- BLOG-POST-LIST:START -->
-- [my first PyPI package, linkhut-cli app](https://shubxam.tech/my-first-package-on-pypi/)
-- [Nifty Indices Live Sentiment Analysis](https://shubxam.tech/nifty-indices-live-sentiment-analysis/)
-<!-- BLOG-POST-LIST:END -->

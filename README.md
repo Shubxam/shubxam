@@ -16,7 +16,7 @@
 
 ---
 
-![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7) Packages authored on PyPI:
+🐍 Packages authored on PyPI:
 
 - [linkhut-cli: beautiful TUI to manage your bookmarks stored on linkhut](https://pypi.org/project/linkhut-cli/)
 

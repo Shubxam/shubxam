@@ -50,7 +50,7 @@ TeX          1 hrs 30 mins   ▓░░░░░░░░░░░░░░░░
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=shubxam&theme=dark&show=prs_merged_percentage&hide_rank=true&disable_animations=true&card_width=450" />
       </a>
     </td>
-    <td style="border: none;">`
+    <td style="border: none;">
     <a href="https://github.com/shubxam">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubxam&hide=HTML,CSS,Jupyter%20Notebook,Dart&size_weight=0.5&count_weight=0.5&hide_progress=true&card_width=100" />
       </a>

@@ -43,7 +43,7 @@ TeX          1 hrs 30 mins   ▓░░░░░░░░░░░░░░░░
 
 📈 Here are my github stats:
 
-<table>
+<table border="0" cellspacing="10" cellpadding="5" align="center">
   <tr>
     <td>
       <a href="https://github.com/shubxam">

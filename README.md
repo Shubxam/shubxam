@@ -43,21 +43,21 @@ TeX          1 hrs 30 mins   ▓░░░░░░░░░░░░░░░░
 
 📈 Here are my github stats:
 
-<table border="0" cellspacing="10" cellpadding="5" align="center">
-  <tr>
-    <td>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
       <a href="https://github.com/shubxam">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=shubxam&theme=dark&show=prs_merged_percentage&hide_rank=true&disable_animations=true&card_width=450" />
       </a>
     </td>
-    <td>
+    <td style="border: none;">`
     <a href="https://github.com/shubxam">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubxam&hide=HTML,CSS,Jupyter%20Notebook,Dart&size_weight=0.5&count_weight=0.5&hide_progress=true&card_width=100" />
       </a>
     </td>
   </tr>
-  <tr>
-  <td colspan="2", align="center">
+  <tr style="border: none;">
+  <td colspan="2", align="center", style="border: none;">
       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shubxam&theme=highcontrast&hide_total_contributions=true" alt="GitHub Streak" /></a>
     </td>
   </tr>

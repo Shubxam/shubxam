@@ -27,14 +27,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 April 2025 - To: 17 May 2025
+From: 19 April 2025 - To: 18 May 2025
 
-Total Time: 61 hrs 38 mins
+Total Time: 61 hrs 56 mins
 
-Python       38 hrs 10 mins  ███████████████▒░░░░░░░░░   61.94 %
-Markdown     11 hrs 55 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
-YAML         1 hrs 53 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-TeX          1 hrs 36 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Python       37 hrs 6 mins   ███████████████░░░░░░░░░░   59.91 %
+Markdown     12 hrs 49 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.71 %
+TeX          2 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+YAML         1 hrs 53 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->

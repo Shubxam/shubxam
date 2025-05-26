@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shubham Soni.
 
-- I’m a Financial Engineer.
+- I'm a Quantitative Software Engineer.
 - I'm interested in building local first apps. Always love a TUI app with great interface.
 - I'm passionate about building practical solutions to problems in wealthtech/fintech domain.
 - I’m looking to collaborate on interesting projects on python/rust centered around trading.

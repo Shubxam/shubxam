@@ -29,14 +29,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 May 2025 - To: 27 June 2025
+From: 30 May 2025 - To: 28 June 2025
 
-Total Time: 70 hrs 57 mins
+Total Time: 76 hrs 45 mins
 
-Python     38 hrs 29 mins  █████████████▓░░░░░░░░░░░   54.24 %
-Markdown   23 hrs 47 mins  ████████▒░░░░░░░░░░░░░░░░   33.51 %
-TeX        1 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Makefile   0 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Python     37 hrs 46 mins  ████████████▒░░░░░░░░░░░░   49.21 %
+Markdown   24 hrs 10 mins  ████████░░░░░░░░░░░░░░░░░   31.49 %
+Typst      4 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+TeX        1 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->

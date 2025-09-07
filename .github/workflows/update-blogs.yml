@@ -16,4 +16,4 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://shubxam.tech/feed/"
+          feed_list: "https://shubxam.live/feed/"

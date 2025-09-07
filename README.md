@@ -11,9 +11,9 @@
 📝 Here are some of the blogs I've written:
 
 <!-- BLOG-POST-LIST:START -->
-- [simulating a bird village evolution](https://shubxam.tech/evolution-simulation/)
-- [my first PyPI package, linkhut-cli app](https://shubxam.tech/my-first-package-on-pypi/)
-- [Nifty Indices Live Sentiment Analysis](https://shubxam.tech/nifty-indices-live-sentiment-analysis/)
+- [simulating a bird village evolution](https://shubxam.live/evolution-simulation/)
+- [my first PyPI package, linkhut-cli app](https://shubxam.live/my-first-package-on-pypi/)
+- [Nifty Indices Live Sentiment Analysis](https://shubxam.live/nifty-indices-live-sentiment-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

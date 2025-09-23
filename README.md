@@ -29,15 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 August 2025 - To: 20 September 2025
+From: 24 August 2025 - To: 23 September 2025
 
-Total Time: 21 hrs 37 mins
+Total Time: 0 hrs 0 mins
 
-Python       14 hrs 8 mins   ████████████████▒░░░░░░░░   65.39 %
-Markdown     1 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-CSV          1 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-Unknown      1 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-HTML         1 hrs 1 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 September 2025 - To: 29 October 2025
+From: 01 October 2025 - To: 30 October 2025
 
-Total Time: 17 hrs 14 mins
+Total Time: 15 hrs 22 mins
 
-Python     12 hrs 45 mins  ██████████████████▒░░░░░░   73.97 %
-CSV        2 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
-YAML       1 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-Markdown   0 hrs 36 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-Unknown    0 hrs 19 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Python     11 hrs 9 mins   ██████████████████░░░░░░░   72.56 %
+YAML       1 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+CSV        1 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Markdown   0 hrs 34 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Unknown    0 hrs 19 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->

@@ -31,10 +31,9 @@
 ```rust
 From: 11 November 2025 - To: 09 December 2025
 
-Total Time: 0 hrs 1 mins
+Total Time: 0 hrs 0 mins
 
-HTML     0 hrs 1 mins    ██████████████████████▓░░   91.30 %
-Python   0 hrs 0 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+Python   0 hrs 0 mins    █████████████████████████   100.00 %
 YAML     0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 

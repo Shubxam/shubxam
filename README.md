@@ -31,12 +31,11 @@
 ```rust
 From: 23 November 2025 - To: 22 December 2025
 
-Total Time: 0 hrs 0 mins
+Total Time: 0 hrs 23 mins
 
-sql            0 hrs 0 mins    ██████████████████▓░░░░░░   75.00 %
-python         0 hrs 0 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.00 %
-markdown       0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-shell script   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown       0 hrs 13 mins   ██████████████░░░░░░░░░░░   55.56 %
+Typst          0 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Unknown        0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->

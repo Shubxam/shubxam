@@ -31,12 +31,9 @@
 ```rust
 From: 20 January 2026 - To: 17 February 2026
 
-Total Time: 1 hrs 27 mins
+Total Time: 0 hrs 4 mins
 
-Python     0 hrs 21 mins         ██████░░░░░░░░░░░░░░░░░░░   23.58 %
-Unknown    0 hrs 17 mins         █████░░░░░░░░░░░░░░░░░░░░   19.80 %
-Markdown   0 hrs 7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-Makefile   0 hrs 2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Markdown   0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->

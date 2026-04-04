@@ -29,14 +29,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 March 2026 - To: 02 April 2026
+From: 05 March 2026 - To: 03 April 2026
 
-Total Time: 17 hrs 38 mins
+Total Time: 17 hrs 28 mins
 
-Python       5 hrs 20 mins         ███████▓░░░░░░░░░░░░░░░░░   30.21 %
-TSX          2 hrs 1 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-Markdown     2 hrs 0 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-Unknown      1 hrs 17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Python       5 hrs 57 mins         ████████▓░░░░░░░░░░░░░░░░   34.06 %
+TSX          2 hrs 1 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
+Markdown     1 hrs 46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
+Unknown      1 hrs 9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
 ```
 
 <!--END_SECTION:waka-->

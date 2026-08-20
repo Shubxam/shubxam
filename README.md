@@ -29,14 +29,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 July 2026 - To: 18 August 2026
+From: 21 July 2026 - To: 19 August 2026
 
-Total Time: 110 hrs 50 mins
+Total Time: 107 hrs 43 mins
 
-Python         56 hrs 14 mins        ████████████▓░░░░░░░░░░░░   50.74 %
-Markdown       30 hrs 41 mins        ███████░░░░░░░░░░░░░░░░░░   27.68 %
-Unknown        14 hrs 9 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
-TypeScript     1 hrs 41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Python         54 hrs 24 mins        ████████████▓░░░░░░░░░░░░   50.51 %
+Markdown       30 hrs 9 mins         ███████░░░░░░░░░░░░░░░░░░   27.99 %
+Unknown        13 hrs 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+TypeScript     1 hrs 41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->

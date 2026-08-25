@@ -29,14 +29,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 July 2026 - To: 24 August 2026
+From: 26 July 2026 - To: 25 August 2026
 
-Total Time: 1 hrs 9 mins
+Total Time: 0 hrs 53 mins
 
-Markdown     0 hrs 35 mins         ████████████▓░░░░░░░░░░░░   51.30 %
-Unknown      0 hrs 21 mins         ███████▓░░░░░░░░░░░░░░░░░   31.05 %
-TypeScript   0 hrs 10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-YAML         0 hrs 1 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Markdown     0 hrs 28 mins         █████████████▒░░░░░░░░░░░   53.20 %
+Unknown      0 hrs 21 mins         ██████████░░░░░░░░░░░░░░░   40.18 %
+TypeScript   0 hrs 3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
 ```
 
 <!--END_SECTION:waka-->

@@ -29,14 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 October 2026 - To: 24 November 2026
+From: 26 October 2026 - To: 25 November 2026
 
-Total Time: 0 hrs 47 mins
+Total Time: 0 hrs 4 mins
 
-Unknown    0 hrs 39 mins         ████████████████████▓░░░░   82.55 %
-HTML       0 hrs 5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
-INI        0 hrs 2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-Markdown   0 hrs 0 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+json   0 hrs 4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
